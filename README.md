@@ -48,7 +48,7 @@ Eg: `:lua require('phpactor').rpc('context_menu', {})`
 
 ## ⚡️ Requirements
 
-- Neovim >= 0.7.0
+- Neovim >= 0.11.0
 
 ## 📦 Installation
 
